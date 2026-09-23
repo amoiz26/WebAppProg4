@@ -38,3 +38,25 @@ q {
     font-style: italic;
     font-family: Georgia, 'Times New Roman', serif;
 }
+
+table.casting {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 20px;
+}
+
+table.casting th,
+table.casting td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+}
+
+table.casting th {
+    background-color: lightblue;
+    color: black;
+}
+
+table.casting tr:nth-child(even) {
+    background-color: lightgray;
+}
