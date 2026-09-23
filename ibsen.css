@@ -1,0 +1,40 @@
+.speech {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: black;
+}
+
+.direction {
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 15px;
+    color: black;
+    background-color: lightyellow;
+}
+
+.direction:hover {
+    background-color: lightblue;
+    color: darkred;
+}
+
+.name {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.gina {
+    color: darkgreen;
+}
+
+.hedvig {
+    color: purple;
+}
+
+.hjalmar {
+    color: darkblue;
+}
+
+q {
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', serif;
+}
