@@ -66,3 +66,23 @@ table.casting tr:nth-child(even) {
     border: 2px solid darkblue;
     padding: 5px;
 }
+
+.navbar {
+    background-color: darkblue;
+    overflow: hidden;
+    margin-top: 30px;
+    padding: 10px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: inline-block;
+    font-weight: bold;
+}
+
+.navbar a:hover {
+    background-color: lightblue;
+    color: black;
+}
