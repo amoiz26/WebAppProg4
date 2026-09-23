@@ -60,3 +60,9 @@ table.casting th {
 table.casting tr:nth-child(even) {
     background-color: lightgray;
 }
+
+.name:hover {
+    text-shadow: 3px 3px 5px orange;
+    border: 2px solid darkblue;
+    padding: 5px;
+}
